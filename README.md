@@ -2,7 +2,7 @@
 
 POC of an API using Django and Python
 
-### Commands
+## Commands
 
 ```bash
 docker compose up
